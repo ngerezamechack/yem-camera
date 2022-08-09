@@ -29,7 +29,7 @@
               
         </plugins>
     </build>
-    <name>Yem Camera</name>
+    <name>Yem camera</name>
     <dependencies>
         <dependency>
             <groupId>com.github.sarxos</groupId>
